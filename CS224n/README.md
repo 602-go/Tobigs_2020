@@ -4,9 +4,9 @@
 
 - **스탠포드 대학 컴퓨터공학과 NLP(자연어처리) 강의**
 
-- **Syllabus** : https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
+    - **Syllabus** : https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
 
-- **Lecture Video**: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+    - **Lecture Video**: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 - 보충자료
 

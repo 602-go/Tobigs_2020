@@ -2,7 +2,7 @@
 
 - 투빅스 12,13기 텍스트 심화세미나에서 진행한 스터디입니다.
 
-## 스탠포드 대학 컴퓨터공학과 NLP(자연어처리) 강의
+- **스탠포드 대학 컴퓨터공학과 NLP(자연어처리) 강의**
 
 - **Syllabus** : https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
 

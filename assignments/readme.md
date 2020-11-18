@@ -1,11 +1,11 @@
 ## Tobigs 12&13기 정규세션 Assignments
 
 
-### Week1 : [EDA & Preprocessing](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week1_EDA%26Preprocessing.ipynb)
+## Week1 : [EDA & Preprocessing](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week1_EDA%26Preprocessing.ipynb)
 
 <br>
 
-### Week2
+## Week2
 ### 1. Logistic Regression
   - [Assginment1](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week2_Logistic_Regression1.ipynb)
   - [Assignment2](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week2_Logistic_Regression2.ipynb)
@@ -15,7 +15,7 @@
 
 <br>
 
-### Week3
+## Week3
 ### 1. [KNN](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week3_Knn.ipynb)
 ### 2. [Naive Bayes](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week3_Naive_Bayes.ipynb)
 ### 3. SVM
@@ -24,7 +24,7 @@
 
 <br>
 
-### Week4
+## Week4
 ### 1. [Class](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week4_Class.ipynb)
 ### 2. Decision Tree
   - [Assginment1](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week4_Decision_Tree1.ipynb)
@@ -33,13 +33,13 @@
 <br>
 
 
-### Week5
+## Week5
 ### 1. [Machine Learning Practice](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week5_Machine_Learning.ipynb)
 ### 2. [PCA](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week5_PCA.ipynb)
 
 <br>
 
-### Week6
+## Week6
 ### 1. [Crawling](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week6_Crawling.ipynb)
 ### 2. Neural Network
   - [Assignment1](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week6_Neural_Network.ipynb)

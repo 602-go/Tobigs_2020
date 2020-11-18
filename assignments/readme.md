@@ -1,7 +1,9 @@
 ## Tobigs 12&13기 정규세션 Assignments
 
+<br>
 
-## Week1 : [EDA & Preprocessing](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week1_EDA%26Preprocessing.ipynb)
+## Week1
+### 1. [EDA & Preprocessing](https://github.com/602-go/Tobigs_2020/blob/master/assignments/week1_EDA%26Preprocessing.ipynb)
 
 <br>
 

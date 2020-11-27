@@ -1,6 +1,6 @@
 # Tobigs 12&13기 정규세션 Assignments
   
-This repository contains the assginments that I completed in Tobigs(2020.01 ~ 02).  
+This repository contains the assginments that I completed in Tobigs (2020.01 ~ 02).  
 2020.01 ~ 02에 수행한 투빅스 정규세션 과제입니다.
 <br>
 

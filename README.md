@@ -1,7 +1,6 @@
 # Tobigs_2020
 
-In this repo, there are assignments that I completed in "tobigs."  
-If you have any questions about this repo, feel free to contact ygkoh602@gmail.com.
+빅데이터 분석 연합 학회 Tobig's(투빅스) 13기
 
 
 ## 1. Assignment
